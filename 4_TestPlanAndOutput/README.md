@@ -1,1 +1,9 @@
 # Test plan and test output
+
+# Test Plan
+
+|  Test ID | Description  | Expected Input  | Expected Output  | Actual Output  | Pass/Fail |
+|---|---|---|---|---|---|
+| TID_01  | Device functions  | Device values| ON  |ON| PASS  |
+
+
