@@ -61,15 +61,15 @@ this system.
 
 ## 4 W's and 1 H
 ### Who
-*coustomer / user who want their home smarter.
+* coustomer / user who want their home smarter.
 ### What
-*Verify the details of the applainces .
+* Verify the details of the applainces .
 ### When
-*During the need of applainces .
+* During the need of applainces .
 ### Where
-*Home location.
+* Home location.
 ### How
-*Remotly controling the applainces.
+* Remotly controling the applainces.
 
 ## High Level Requirements
 | ID | Description | 
