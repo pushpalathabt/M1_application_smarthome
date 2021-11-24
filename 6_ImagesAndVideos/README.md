@@ -1,4 +1,4 @@
-# images and videos
+# Images and Videos
 
 # First output after runing makefile
 ## User have to give the details 
