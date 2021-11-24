@@ -4,6 +4,6 @@
 
 |  Test ID | Description  | Expected Input  | Expected Output  | Actual Output  | Pass/Fail |
 |---|---|---|---|---|---|
-| TID_01  | Device functions  | Device values| ON  |ON| PASS  |
+| TID_01  | Device functions  | function values| ON  |ON| PASS  |
 
 
