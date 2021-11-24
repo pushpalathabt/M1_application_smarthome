@@ -16,3 +16,5 @@ This is a Smart Home application project. This project contains  the device of  
 
 # Code Badges and Score
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3c8f9ee11a7a47a39e6711eb12a3147f)](https://www.codacy.com/gh/pushpalathabt/M1_application_smarthome/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pushpalathabt/M1_application_smarthome&amp;utm_campaign=Badge_Grade)
+
