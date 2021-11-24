@@ -1,9 +1,9 @@
 /**
  * @file mainProject.c
- * @author Arshad (you@domain.com)
+ * @author pushpalathabt (you@domain.com)
  * @brief This is the main file of the project
  * @version 0.1
- * @date 2021-09-07
+ * @date 2021-11-20
  *
  * @copyright Copyright (c) 2021
  *
@@ -37,34 +37,40 @@ int main(){
      *
      */
    
-    printf("--------------------------------------");
+    printf("---------------------------------------------------\n");
     
-    printf("Hi! There Please Enter the Details");
+    printf(" ________Hi! There Please Enter the Details_________\n");
   
-    printf("--------------------------------------");
+    printf("-----------------------------------------------------\n");
    
     printf("*******************************************************\n");
     
 
 
   
-   printf("First Name\t:");
+   printf("First Name:\t");
+
+   scanf("%s",U.first);
   
-   printf("Last Name\t:");
+   printf("Last Name:\t");
+
+    scanf("%s",U.last);
   
-   printf("Email id\t:");
+   printf("Email id:\t");
+
+   scanf("%s",U.email);
   
-   printf("Phone Number\t:");
+  
+   printf("Phone Number:\t");
+
+   scanf("%s",U.phone);
+
   
    printf("*******************************************************\n");
    
-   scanf("%s",U.first);
- 
-   scanf("%s",U.last);
    
-   scanf("%s",U.email);
-  
-   scanf("%s",U.phone);
+   
+   
 
 
    
