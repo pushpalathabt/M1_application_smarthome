@@ -1,6 +1,6 @@
 #include "unity.h"
 
-#include "devicefunctions.h"
+#include "topicfunctions.h"
 #include "user.h"
 
 
@@ -18,9 +18,9 @@ void tearDown(){}
 /* Prototypes for all the test functions */
 
 
-void test_Deviceindex(void){
+void test_Topicindex(void){
         
-  		TEST_ASSERT_EQUAL(0,Devicecindex());
+  		TEST_ASSERT_EQUAL(0,Topicindex());
 }
 
 
@@ -29,7 +29,7 @@ void test_Deviceindex(void){
 int main(void)
 {
 UNITY_BEGIN();
-RUN_TEST(test_Deviceindex);
+RUN_TEST(test_Topicindex);
 
 return UNITY_END();
 }

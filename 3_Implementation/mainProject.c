@@ -1,9 +1,9 @@
 /**
  * @file mainProject.c
- * @author pushpalathabt (you@domain.com)
+ * @author Arshad (you@domain.com)
  * @brief This is the main file of the project
  * @version 0.1
- * @date 2021-11-20
+ * @date 2021-09-07
  *
  * @copyright Copyright (c) 2021
  *
@@ -12,9 +12,8 @@
 #include<stdio.h>
 
 
-
 #include"user.h"
-#include"devicefunctions.h"
+#include"topicfunctions.h"
 
 
 
@@ -70,12 +69,11 @@ int main(){
 
    
 
-    Deviceindex();
+    Topicindex();
 
-   //Devices(Devicechoice);
+   //topics(Topicchoice);
 
     return 0;
 
 
     }
-
