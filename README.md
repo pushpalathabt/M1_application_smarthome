@@ -12,6 +12,9 @@ This is a Smart Home application project. This project contains  the device of  
 | `2_Architecture`         | Documents specifying design details|
 | `3_Implementation` | All code and documentation|
 | `4_Test_plan`      | Documents with test plans and procedures|
+| `5_Report`| Documents with all the readme file|
+| `6_Images and videos`|All project related images and videos|
+| `7_Other`| other related files|
 
 
 # Code Badges and Score
