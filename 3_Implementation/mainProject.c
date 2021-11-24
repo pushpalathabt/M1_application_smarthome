@@ -1,9 +1,9 @@
 /**
  * @file mainProject.c
- * @author Arshad (you@domain.com)
+ * @author pushpalathabt (you@domain.com)
  * @brief This is the main file of the project
  * @version 0.1
- * @date 2021-09-07
+ * @date 2021-11-20
  *
  * @copyright Copyright (c) 2021
  *

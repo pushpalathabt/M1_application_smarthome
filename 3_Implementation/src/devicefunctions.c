@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 #include"user.h"
 
 #include"devicefunctions.h"
@@ -44,7 +44,7 @@ void door(){
     
     printf("--------------------------------------\n");
    
-    printf("DOOR ON\n");
+    printf("DOOR OPEN\n");
     
     printf("--------------------------------------\n");
    
