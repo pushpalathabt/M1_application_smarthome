@@ -24,6 +24,10 @@ This is a Smart Home application project. This project contains  the device of  
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/3c8f9ee11a7a47a39e6711eb12a3147f)](https://www.codacy.com/gh/pushpalathabt/M1_application_smarthome/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pushpalathabt/M1_application_smarthome&amp;utm_campaign=Badge_Grade)
 
+## Code Inspector
+|quality score|project quality|
+|--------|---------|
+|![code inspector](https://api.codiga.io/project/30011/score/svg) |![code inspector](https://api.codiga.io/project/30011/status/svg)
 
 
 ## Integrated Tools to GitHub
@@ -35,7 +39,6 @@ This is a Smart Home application project. This project contains  the device of  
 * Static code analysis using cppcheck
 * Dynamic Code analysis using Valgrind
 
-## Learning Resources
-* [How to write Makefile](https://github.com/riuandg5/learn-makefile) by Rishu Anand
+
 
 
