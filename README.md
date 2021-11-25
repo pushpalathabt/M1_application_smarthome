@@ -31,7 +31,7 @@ This is a Smart Home application project. This project contains  the device of  
 
 |Build|Unit Test|cppcheck|
 |:--:|:--:|:--:|
-|   |[![unit testing - unity](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/unit.yml/badge.svg)](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/unit.yml)|  [![cppcheck-action-test](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/cppcheck.yml)   |   |
+|  [![linux os build](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/buildc.yml/badge.svg)](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/buildc.yml) |[![unit testing - unity](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/unit.yml/badge.svg)](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/unit.yml)|  [![cppcheck-action-test](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/cppcheck.yml)   |   |
 
 
 ## Integrated Tools to GitHub
