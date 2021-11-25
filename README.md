@@ -29,9 +29,9 @@ This is a Smart Home application project. This project contains  the device of  
 |--------|---------|
 |![code inspector](https://api.codiga.io/project/30011/score/svg) |![code inspector](https://api.codiga.io/project/30011/status/svg)
 
-|Build|Unit Test|cppcheck|
-|:--:|:--:|:--:|
-|   |[![unit testing - unity](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/unit.yml/badge.svg)](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/unit.yml)|  [![cppcheck-action-test](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/cppcheck.yml)   |   |
+|Build code on linux|Build code on windows|Unit Test|cppcheck|
+|:--:|:--:|:--:|:--:|
+|  [![linux os build](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/buildc.yml/badge.svg)](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/buildc.yml) |[![windows os build](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/w-build.yml/badge.svg)](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/w-build.yml)|[![unit testing - unity](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/unit.yml/badge.svg)](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/unit.yml)|  [![cppcheck-action-test](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/pushpalathabt/M1_application_smarthome/actions/workflows/cppcheck.yml)   |   |
 
 
 ## Integrated Tools to GitHub
