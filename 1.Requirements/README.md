@@ -67,7 +67,7 @@ this system.
 ### When
 * During the need of applainces .
 ### Where
-* Home location.
+* Home location,office etc.
 ### How
 * Remotly controling the applainces.
 
