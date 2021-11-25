@@ -12,7 +12,7 @@ As it is said,’ Necessity is the mother of invention’, working towards home 
 become a new accepted challenge. 
 
 
-## RESEARCH
+## State of art/Research
 Smarthome  system makes the operations of various home appliances more convenient
 and saves energy. With the energy saving concept, Smarthome automation or building automation
 makes life very simple nowadays. It involves automatic controlling of all electrical or
@@ -20,6 +20,16 @@ electronic devices in homes or even remotely through wireless communication. Cen
 control of lighting equipments, air conditioning and heating, audio/video systems, security
 systems, kitchen appliances and all other equipments used in home systems is possible with
 this system.
+
+## FEATURE 
+* Remote access.
+* Advanced security.
+* Lighting control
+* Automatic device control
+* Energy Management
+* Interoperability
+* Upgradeability
+
 
 ## Advantages
 * Managing all of your home devices from one place. 
@@ -42,18 +52,10 @@ this system.
 * Some people may not like smart technologies.
 * Maintenance and repair issues.
 
-# COST, FEATURE & TIMELINE
+# COST & TIMELINE
 ## COST
 Till the cost is not been predicted. we are in the process. Stay connected we will let you know very soon.
 
-## FEATURE 
-* Remote access.
-* Advanced security.
-* Lighting control
-* Automatic device control
-* Energy Management
-* Interoperability
-* Upgradeability
 
 # TIMELINE
 ## Before
