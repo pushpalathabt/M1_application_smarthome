@@ -1,4 +1,5 @@
 
+
 # Requirements
 
  ## INTRODUCTION
@@ -10,6 +11,8 @@ on the features of several smart devices, the need for interconnecting them has 
 As it is said,’ Necessity is the mother of invention’, working towards home automation has
 become a new accepted challenge. 
 
+
+## RESEARCH
 Smarthome  system makes the operations of various home appliances more convenient
 and saves energy. With the energy saving concept, Smarthome automation or building automation
 makes life very simple nowadays. It involves automatic controlling of all electrical or
@@ -38,6 +41,25 @@ this system.
 * Helplessness if technology fails.
 * Some people may not like smart technologies.
 * Maintenance and repair issues.
+
+# COST, FEATURE & TIMELINE
+## COST
+Till the cost is not been predicted. we are in the process. Stay connected we will let you know very soon.
+
+## FEATURE 
+* Remote access.
+* Advanced security.
+* Lighting control
+* Automatic device control
+* Energy Management
+* Interoperability
+* Upgradeability
+
+# TIMELINE
+## Before
+![smart home pic](https://user-images.githubusercontent.com/75003344/143393133-ab909cef-65e0-4a85-b37d-5a2d0b42cff2.jpg)
+## After
+![s11](https://user-images.githubusercontent.com/75003344/143389522-b5667a18-e107-429c-9f40-ac7276e52e33.png)
 
 # SWOT Analysis
 ## Strength
